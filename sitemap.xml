@@ -53,13 +53,6 @@
     </url>
 
     <url>
-        <loc>https://pughsdependableservices.com/service-Deck-&-Patio-Cleaning</loc>
-        <lastmod>2022-03-18</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-
-    <url>
         <loc>https://pughsdependableservices.com/service-Gutter-Cleaning</loc>
         <lastmod>2022-03-18</lastmod>
         <changefreq>weekly</changefreq>
@@ -75,6 +68,13 @@
 
     <url>
         <loc>https://pughsdependableservices.com/service-Driveway-&-Sidewalk-Cleaning</loc>
+        <lastmod>2022-03-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://pughsdependableservices.com/service-Deck-&-Patio-Cleaning</loc>
         <lastmod>2022-03-18</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
